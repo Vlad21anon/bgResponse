@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "item_id": "1",
+      "item_name": "Avocado Salad",
+      "item_description": "A fresh salad with avocado, cherry tomatoes, and a lemon dressing.",
+      "item_price": 8.99,
+      "item_image": "https://www.djurenko.com/wp-content/uploads/2013/02/salad-with-avocado_12.jpg",
+      "item_is_vegan": true,
+      "item_calories": 250
+    },
+    {
+      "item_id": "2",
+      "item_name": "Beef Burger",
+      "item_description": "A juicy beef burger with lettuce, cheese, and special sauce.",
+      "item_price": 12.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 800
+    },
+    {
+      "item_id": "3",
+      "item_name": "Vegan Smoothie",
+      "item_description": "A delicious smoothie made with almond milk, bananas, and berries.",
+      "item_price": 5.99,
+      "item_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/kale-smoothie-d06d559.jpg?quality=90&resize=400,363",
+      "item_is_vegan": true,
+      "item_calories": 180
+    },
+    {
+      "item_id": "4",
+      "item_name": "Grilled Chicken",
+      "item_description": "Tender grilled chicken breast with a side of steamed vegetables.",
+      "item_price": 14.99,
+      "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4Iuh569BTpvOE64cwjJl4IqLRndPKJToUQ&s",
+      "item_is_vegan": false,
+      "item_calories": 450
+    },
+    {
+      "item_id": "5",
+      "item_name": "Chocolate Cake",
+      "item_description": "A rich and moist chocolate cake topped with dark chocolate ganache.",
+      "item_price": 6.49,
+      "item_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpf1eoNbsWblTDxgrmnzqLSutOOZBoo69CNg&s",
+      "item_is_vegan": false,
+      "item_calories": 520
+    }
+  ]
+}
