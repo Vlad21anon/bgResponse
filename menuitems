@@ -1,4 +1,18 @@
 {
+  "recomend_items": [
+    {
+      "item_header": "Free Delivery",
+      "item_description": "Limited offer",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Test message",
+      "item_description": "Limited offer",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": ""
+    },
+  ],
   "pizza_items": [
     {
       "item_id": "2",
