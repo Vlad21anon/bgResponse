@@ -12,49 +12,421 @@
       "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
       "button_text": ""
     },
+    {
+      "item_header": "Discount Today",
+      "item_description": "50% off on all orders",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Free Delivery",
+      "item_description": "Limited time offer",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Special Promo",
+      "item_description": "20% off on all items",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Flash Sale",
+      "item_description": "Buy one get one free",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Shop now"
+    },
+    {
+      "item_header": "New Menu",
+      "item_description": "Try our new items today!",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Best Seller",
+      "item_description": "Our most popular item",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Customer Favorite",
+      "item_description": "Everyone loves it!",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    },
+    {
+      "item_header": "Weekend Special",
+      "item_description": "Weekend only deal",
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "button_text": "Order now"
+    }
   ],
   "pizza_items": [
     {
-      "item_id": "2",
-      "item_name": "Pizza",
-      "item_description": "A juicy beef burger with lettuce, cheese, and special sauce.",
-      "item_price": 12.49,
+      "item_id": "1",
+      "item_name": "Pepperoni Pizza",
+      "item_description": "Classic pizza with pepperoni, cheese, and tomato sauce.",
+      "item_price": 10.99,
       "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
       "item_is_vegan": false,
       "item_calories": 800
+    },
+    {
+      "item_id": "2",
+      "item_name": "Margherita Pizza",
+      "item_description": "Simple pizza with mozzarella, basil, and tomato sauce.",
+      "item_price": 8.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 700
+    },
+    {
+      "item_id": "3",
+      "item_name": "BBQ Chicken Pizza",
+      "item_description": "Pizza with BBQ chicken, red onion, and cheese.",
+      "item_price": 12.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 850
+    },
+    {
+      "item_id": "4",
+      "item_name": "Veggie Pizza",
+      "item_description": "Pizza with assorted veggies, cheese, and tomato sauce.",
+      "item_price": 9.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 650
+    },
+    {
+      "item_id": "5",
+      "item_name": "Hawaiian Pizza",
+      "item_description": "Pizza with ham, pineapple, and cheese.",
+      "item_price": 11.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 900
+    },
+    {
+      "item_id": "6",
+      "item_name": "Meat Lovers Pizza",
+      "item_description": "Pizza with multiple types of meat, cheese, and tomato sauce.",
+      "item_price": 13.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 1000
+    },
+    {
+      "item_id": "7",
+      "item_name": "Mushroom Pizza",
+      "item_description": "Pizza with mushrooms, cheese, and tomato sauce.",
+      "item_price": 9.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 750
+    },
+    {
+      "item_id": "8",
+      "item_name": "Four Cheese Pizza",
+      "item_description": "Pizza with mozzarella, cheddar, parmesan, and gouda cheese.",
+      "item_price": 14.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 1100
+    },
+    {
+      "item_id": "9",
+      "item_name": "Spinach and Ricotta Pizza",
+      "item_description": "Pizza with spinach, ricotta, cheese, and tomato sauce.",
+      "item_price": 10.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 800
+    },
+    {
+      "item_id": "10",
+      "item_name": "Seafood Pizza",
+      "item_description": "Pizza with assorted seafood, cheese, and tomato sauce.",
+      "item_price": 15.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 1200
     }
   ],
   "hamburgers_items": [
     {
+      "item_id": "1",
+      "item_name": "Cheeseburger",
+      "item_description": "Juicy beef patty with cheese, lettuce, and tomato.",
+      "item_price": 6.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 600
+    },
+    {
       "item_id": "2",
-      "item_name": "Burger",
+      "item_name": "Classic Burger",
       "item_description": "A juicy beef burger with lettuce, cheese, and special sauce.",
-      "item_price": 12.49,
+      "item_price": 7.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 700
+    },
+    {
+      "item_id": "3",
+      "item_name": "BBQ Burger",
+      "item_description": "Burger with BBQ sauce, bacon, and cheese.",
+      "item_price": 8.99,
       "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
       "item_is_vegan": false,
       "item_calories": 800
+    },
+    {
+      "item_id": "4",
+      "item_name": "Vegan Burger",
+      "item_description": "Plant-based patty with lettuce, tomato, and vegan mayo.",
+      "item_price": 7.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 550
+    },
+    {
+      "item_id": "5",
+      "item_name": "Spicy Burger",
+      "item_description": "Burger with spicy sauce, jalapenos, and cheese.",
+      "item_price": 7.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 750
+    },
+    {
+      "item_id": "6",
+      "item_name": "Bacon Burger",
+      "item_description": "Burger with crispy bacon, lettuce, and cheese.",
+      "item_price": 8.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 850
+    },
+    {
+      "item_id": "7",
+      "item_name": "Double Cheeseburger",
+      "item_description": "Double beef patties with cheese, lettuce, and special sauce.",
+      "item_price": 9.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 950
+    },
+    {
+      "item_id": "8",
+      "item_name": "Mushroom Burger",
+      "item_description": "Burger with mushrooms, cheese, and special sauce.",
+      "item_price": 8.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 800
+    },
+    {
+      "item_id": "9",
+      "item_name": "Cheddar Burger",
+      "item_description": "Burger with cheddar cheese, lettuce, and tomato.",
+      "item_price": 7.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 700
+    },
+    {
+      "item_id": "10",
+      "item_name": "Fish Burger",
+      "item_description": "Burger with fish fillet, lettuce, and tartar sauce.",
+      "item_price": 8.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 750
     }
   ],
   "wok_items": [
     {
+      "item_id": "1",
+      "item_name": "Chicken Wok",
+      "item_description": "Wok with chicken, veggies, and soy sauce.",
+      "item_price": 9.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 650
+    },
+    {
       "item_id": "2",
-      "item_name": "Wok",
-      "item_description": "A juicy beef burger with lettuce, cheese, and special sauce.",
-      "item_price": 12.49,
+      "item_name": "Beef Wok",
+      "item_description": "Wok with beef, veggies, and soy sauce.",
+      "item_price": 10.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 700
+    },
+    {
+      "item_id": "3",
+      "item_name": "Vegetable Wok",
+      "item_description": "Wok with assorted veggies and soy sauce.",
+      "item_price": 8.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 550
+    },
+    {
+      "item_id": "4",
+      "item_name": "Shrimp Wok",
+      "item_description": "Wok with shrimp, veggies, and soy sauce.",
+      "item_price": 11.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 750
+    },
+    {
+      "item_id": "5",
+      "item_name": "Tofu Wok",
+      "item_description": "Wok with tofu, veggies, and soy sauce.",
+      "item_price": 8.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 600
+    },
+    {
+      "item_id": "6",
+      "item_name": "Pork Wok",
+      "item_description": "Wok with pork, veggies, and soy sauce.",
+      "item_price": 9.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 700
+    },
+    {
+      "item_id": "7",
+      "item_name": "Chicken and Veggie Wok",
+      "item_description": "Wok with chicken and assorted veggies.",
+      "item_price": 10.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 750
+    },
+    {
+      "item_id": "8",
+      "item_name": "Beef and Veggie Wok",
+      "item_description": "Wok with beef and assorted veggies.",
+      "item_price": 11.99,
       "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
       "item_is_vegan": false,
       "item_calories": 800
+    },
+    {
+      "item_id": "9",
+      "item_name": "Seafood Wok",
+      "item_description": "Wok with assorted seafood and veggies.",
+      "item_price": 12.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 900
+    },
+    {
+      "item_id": "10",
+      "item_name": "Vegan Wok",
+      "item_description": "Wok with tofu, veggies, and soy sauce.",
+      "item_price": 8.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 650
     }
   ],
   "sushi_items": [
     {
+      "item_id": "1",
+      "item_name": "California Roll",
+      "item_description": "Sushi roll with crab, avocado, and cucumber.",
+      "item_price": 7.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 350
+    },
+    {
       "item_id": "2",
-      "item_name": "Sushi",
-      "item_description": "A juicy beef burger with lettuce, cheese, and special sauce.",
+      "item_name": "Spicy Tuna Roll",
+      "item_description": "Sushi roll with tuna, spicy mayo, and cucumber.",
+      "item_price": 8.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 400
+    },
+    {
+      "item_id": "3",
+      "item_name": "Veggie Roll",
+      "item_description": "Sushi roll with avocado, cucumber, and carrots.",
+      "item_price": 6.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 300
+    },
+    {
+      "item_id": "4",
+      "item_name": "Dragon Roll",
+      "item_description": "Sushi roll with eel, avocado, and cucumber.",
+      "item_price": 9.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 450
+    },
+    {
+      "item_id": "5",
+      "item_name": "Rainbow Roll",
+      "item_description": "Sushi roll with assorted fish, avocado, and cucumber.",
+      "item_price": 10.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 500
+    },
+    {
+      "item_id": "6",
+      "item_name": "Tempura Roll",
+      "item_description": "Sushi roll with tempura shrimp and avocado.",
+      "item_price": 11.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 550
+    },
+    {
+      "item_id": "7",
+      "item_name": "Cucumber Roll",
+      "item_description": "Simple roll with cucumber and rice.",
+      "item_price": 5.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": true,
+      "item_calories": 200
+    },
+    {
+      "item_id": "8",
+      "item_name": "Spider Roll",
+      "item_description": "Sushi roll with soft-shell crab, avocado, and cucumber.",
       "item_price": 12.49,
       "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
       "item_is_vegan": false,
-      "item_calories": 800
+      "item_calories": 600
+    },
+    {
+      "item_id": "9",
+      "item_name": "Philadelphia Roll",
+      "item_description": "Sushi roll with salmon, cream cheese, and avocado.",
+      "item_price": 11.99,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 550
+    },
+    {
+      "item_id": "10",
+      "item_name": "Tuna Roll",
+      "item_description": "Sushi roll with tuna, avocado, and cucumber.",
+      "item_price": 8.49,
+      "item_image": "https://img1.russianfood.com/dycontent/images_upl/515/big_514741.jpg",
+      "item_is_vegan": false,
+      "item_calories": 450
     }
   ]
 }
